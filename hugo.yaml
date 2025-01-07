@@ -1,0 +1,45 @@
+baseURL: "https://msnws.github.io/site/"
+languageCode: "en-us"
+title: "msnws"
+copyright: "© msnws 2025"
+pagination.pagerSize: 3
+theme: ["PaperMod"]
+
+params:
+  defaultTheme: auto
+  disableThemeToggle: true
+  ShowBreadCrumbs: true
+  
+  enableInlineShortcodes: true
+  enableRobotsTXT: true
+  buildDrafts: false
+  buildFuture: false
+  buildExpired: false
+  enableEmoji: true
+  pygmentsUseClasses: true
+  mainsections: ["posts", "papermod"]
+  
+  homeInfoParams:
+    Title: "Hello!"
+    Content: "Welcome to my blog!"
+    
+  socialIcons:
+    - name: "Bluesky"
+    - url: "https://bsky.app/profile/msnws.bsky.social"
+    - name: "other"
+    - url: "https://www.mason-weis.com"
+    
+  minify:
+    disableXML: true
+    # minifyOutput: true
+
+outputs:
+  home:
+    - HTML
+    - JSON # necessary for search
+    
+menu:
+  main:
+    - name: Search
+      url: search/
+      weight: 10

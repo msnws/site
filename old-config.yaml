@@ -3,7 +3,7 @@ languageCode: "en-us"
 title: "msnws"
 copyright: "© msnws 2025"
 pagination.pagerSize: 3
-theme: "PaperMod"
+theme: ["PaperMod"]
 
 params:
   defaultTheme: auto
@@ -31,7 +31,7 @@ params:
     
   minify:
     disableXML: true
-    minifyOutput: true
+    # minifyOutput: true
 
 outputs:
   home:
