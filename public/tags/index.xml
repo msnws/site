@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on msnws</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on msnws</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <copyright>msnws 2025</copyright>
+    <lastBuildDate>Thu, 09 Nov 2023 12:57:33 -0500</lastBuildDate>
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tv</title>
+      <link>https://example.org/tags/tv/</link>
+      <pubDate>Thu, 09 Nov 2023 12:57:33 -0500</pubDate>
+      <guid>https://example.org/tags/tv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>https://example.org/tags/music/</link>
+      <pubDate>Thu, 02 Nov 2023 11:45:28 -0500</pubDate>
+      <guid>https://example.org/tags/music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>https://example.org/tags/personal/</link>
+      <pubDate>Sun, 22 Oct 2023 12:57:33 -0500</pubDate>
+      <guid>https://example.org/tags/personal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Update</title>
+      <link>https://example.org/tags/update/</link>
+      <pubDate>Sun, 22 Oct 2023 12:57:33 -0500</pubDate>
+      <guid>https://example.org/tags/update/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Adhd</title>
+      <link>https://example.org/tags/adhd/</link>
+      <pubDate>Thu, 31 Aug 2023 13:50:56 -0500</pubDate>
+      <guid>https://example.org/tags/adhd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mental Health</title>
+      <link>https://example.org/tags/mental-health/</link>
+      <pubDate>Thu, 31 Aug 2023 13:50:56 -0500</pubDate>
+      <guid>https://example.org/tags/mental-health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>https://example.org/tags/productivity/</link>
+      <pubDate>Thu, 31 Aug 2023 13:50:56 -0500</pubDate>
+      <guid>https://example.org/tags/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social Media</title>
+      <link>https://example.org/tags/social-media/</link>
+      <pubDate>Thu, 06 Jul 2023 13:47:28 -0500</pubDate>
+      <guid>https://example.org/tags/social-media/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
