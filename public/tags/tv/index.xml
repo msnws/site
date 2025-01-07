@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tv on msnws</title>
-    <link>https://example.org/tags/tv/</link>
-    <description>Recent content in Tv on msnws</description>
-    <generator>Hugo -- 0.140.2</generator>
-    <language>en-us</language>
-    <copyright>msnws 2025</copyright>
+    <title>Tv on </title>
+    <link>/tags/tv/</link>
+    <description>Recent content in Tv on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Thu, 09 Nov 2023 12:57:33 -0500</lastBuildDate>
-    <atom:link href="https://example.org/tags/tv/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/tv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Veep - HBO</title>
-      <link>https://example.org/posts/veep/</link>
+      <link>/posts/veep/</link>
       <pubDate>Thu, 09 Nov 2023 12:57:33 -0500</pubDate>
-      <guid>https://example.org/posts/veep/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Just as a note&amp;hellip; I mention incredibly light spoilers for the end of Veep, and less light spoilers for Game of Thrones below.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Just finished watching &lt;em&gt;Veep&lt;/em&gt; yesterday. I liked it a lot. The middle seasons (3-5) were probably my favorite and have a lot of the same charm that a lot of other ensemble cast shows I&amp;rsquo;ve loved (&lt;em&gt;The Office, Parks &amp;amp; Rec,&lt;/em&gt; etc.) had back in the day.&lt;/p&gt;</description>
+      <guid>/posts/veep/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Just as a note&amp;hellip; I mention incredibly light spoilers for the end of Veep, and less light spoilers for Game of Thrones below.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Just finished watching &lt;em&gt;Veep&lt;/em&gt; yesterday. I liked it a lot. The middle seasons (3-5) were probably my favorite and have a lot of the same charm that a lot of other ensemble cast shows I&amp;rsquo;ve loved (&lt;em&gt;The Office, Parks &amp;amp; Rec,&lt;/em&gt; etc.) had back in the day.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

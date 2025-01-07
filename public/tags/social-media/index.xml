@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social Media on msnws</title>
-    <link>https://example.org/tags/social-media/</link>
-    <description>Recent content in Social Media on msnws</description>
-    <generator>Hugo -- 0.140.2</generator>
-    <language>en-us</language>
-    <copyright>msnws 2025</copyright>
+    <title>Social Media on </title>
+    <link>/tags/social-media/</link>
+    <description>Recent content in Social Media on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Thu, 06 Jul 2023 13:47:28 -0500</lastBuildDate>
-    <atom:link href="https://example.org/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Threads</title>
-      <link>https://example.org/posts/threads/</link>
+      <link>/posts/threads/</link>
       <pubDate>Thu, 06 Jul 2023 13:47:28 -0500</pubDate>
-      <guid>https://example.org/posts/threads/</guid>
-      <description>&lt;p&gt;This will be my only post about Threads since I don’t care to give it the time or attention it doesn’t need.&lt;/p&gt;
-&lt;p&gt;As it stands right now, it feels chaotic and impersonal. While Mastodon feels like a nice community where I follow real blogs (micro as they may be) that I’m interested in. Threads feels like the old social media dick measuring contest to see who can make the most bottom-of-the-barrel joke the fastest and subsequently rake in the most likes/reposts the fastest.&lt;/p&gt;</description>
+      <guid>/posts/threads/</guid>
+      <description>&lt;p&gt;This will be my only post about Threads since I don’t care to give it the time or attention it doesn’t need.&lt;/p&gt;&#xA;&lt;p&gt;As it stands right now, it feels chaotic and impersonal. While Mastodon feels like a nice community where I follow real blogs (micro as they may be) that I’m interested in. Threads feels like the old social media dick measuring contest to see who can make the most bottom-of-the-barrel joke the fastest and subsequently rake in the most likes/reposts the fastest.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

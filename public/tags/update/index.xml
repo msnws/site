@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Update on msnws</title>
-    <link>https://example.org/tags/update/</link>
-    <description>Recent content in Update on msnws</description>
-    <generator>Hugo -- 0.140.2</generator>
-    <language>en-us</language>
-    <copyright>msnws 2025</copyright>
+    <title>Update on </title>
+    <link>/tags/update/</link>
+    <description>Recent content in Update on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Sun, 22 Oct 2023 12:57:33 -0500</lastBuildDate>
-    <atom:link href="https://example.org/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/update/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Blog, Who Dis?</title>
-      <link>https://example.org/posts/hello/</link>
+      <link>/posts/hello/</link>
       <pubDate>Sun, 22 Oct 2023 12:57:33 -0500</pubDate>
-      <guid>https://example.org/posts/hello/</guid>
+      <guid>/posts/hello/</guid>
       <description>&lt;p&gt;Hey everyone! I&amp;rsquo;m currently moving my blog over to Hugo as opposed to write.bz. I like write.bz, and while it might be tough losing federation, I think that this is the best move for the blog moving forward. I&amp;rsquo;ll be moving all of my posts over at some point in the near term future.&lt;/p&gt;</description>
     </item>
     <item>
       <title>An Introductory Post</title>
-      <link>https://example.org/posts/an-introductory-post/</link>
+      <link>/posts/an-introductory-post/</link>
       <pubDate>Thu, 29 Jun 2023 13:22:29 -0500</pubDate>
-      <guid>https://example.org/posts/an-introductory-post/</guid>
-      <description>&lt;p&gt;Hello -&lt;/p&gt;
-&lt;p&gt;Bear with me since this is my first blog post. I’ll try to keep it short and sweet.&lt;/p&gt;
-&lt;p&gt;My name is Mason. I’m a creative living in Chicago. I use the vague word “creative” here because I’m a bit of a Jack of all trades, master of none. Basically, my ideas to output ratio is very low (likely as a result of my ADHD). A lot of different mediums resonate with me, but I have trouble seeing things through. Obviously I’m learning to change that, and I even independently released my first EP of produced music a couple of months ago! It’s all a work in progress.&lt;/p&gt;</description>
+      <guid>/posts/an-introductory-post/</guid>
+      <description>&lt;p&gt;Hello -&lt;/p&gt;&#xA;&lt;p&gt;Bear with me since this is my first blog post. I’ll try to keep it short and sweet.&lt;/p&gt;&#xA;&lt;p&gt;My name is Mason. I’m a creative living in Chicago. I use the vague word “creative” here because I’m a bit of a Jack of all trades, master of none. Basically, my ideas to output ratio is very low (likely as a result of my ADHD). A lot of different mediums resonate with me, but I have trouble seeing things through. Obviously I’m learning to change that, and I even independently released my first EP of produced music a couple of months ago! It’s all a work in progress.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
